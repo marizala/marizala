@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi, Michael here 👋
 
-<!--
-**marizala/marizala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏽‍💻 I'm QA Automation Engineer based in Melbourne, Australia 🇦🇺 (born and raised in The Philippines 🇵🇭). I make a living by snatching bugs before they bite, safeguarding your software experience, one line at a time.
+  
+- 🌱 I’m currently working on expanding my mobile automation knowledge using Maestro.
 
-Here are some ideas to get you started:
+- 🔭 I’m looking to learn more about Playwright and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about software testing, automation testing or anything QA.
+
+- ⚡ Fun fact: I started my career in software testing during my internship, unaware of its distinct role at the time. It was eye-opening as thought all along my uni days that the only pathway is to become software developer. I got to see firsthand how software actually gets made, and how crucial testing and quality assurance are in the whole process. Here I am, since 2014, still embracing the thrilling chaos of QA.
+
+### Let's connect
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelangelo.arizala@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marizala/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mchl.arzl/)
+
+### 💻 Skills:
+- Languages: Java, JavaScript, VBScript, SQL, XML, YAML
+
+- Automation testing: Selenium WebDriver, Appium, Maestro, UFT
+
+- API: Postman, SoapUI, RestAssured
+
+
+### 📊 Github stats
+![marizala's Stats](https://github-readme-stats.vercel.app/api?username=marizala&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![marizala's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marizala&theme=dark&hide_border=true)
+
+![marizala's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marizala&theme=dark&show_icons=true&hide_border=true&layout=compact)
