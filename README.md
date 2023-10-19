@@ -8,7 +8,7 @@
 
 - 💬 Ask me about software testing, automation testing or anything QA.
 
-- ⚡ Fun fact: I started my career in software testing during my internship, unaware of its distinct role at the time. It was eye-opening as thought all along my uni days that the only pathway is to become software developer. I got to see firsthand how software actually gets made, and how crucial testing and quality assurance are in the whole process. Here I am, since 2014, still embracing the thrilling chaos of QA.
+- ⚡ Fun fact: I started my career in software testing during my internship, unaware of its distinct role at the time. It was eye-opening as I thought, all along my uni days, that the only pathway is to become a software developer. I got to see firsthand how software actually gets made, and how crucial testing and quality assurance are in the whole process. Here I am, since 2014, still embracing the thrilling chaos of QA.
 
 ### Let's connect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelangelo.arizala@gmail.com)
