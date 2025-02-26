@@ -1,15 +1,15 @@
 ### Hi, Michael here 👋
 
-- 🧑🏽‍💻 I'm QA Automation Engineer based in Melbourne, Australia 🇦🇺 (born and raised in The Philippines 🇵🇭). I make a living by snatching bugs before they bite, safeguarding your software experience, one line at a time.
+- 🧑🏽‍💻 I'm QA Engineer based in Melbourne, Australia 🇦🇺 (born and raised in The Philippines 🇵🇭).
   
-- 🌱 I’m currently working on expanding my mobile automation knowledge using Maestro.
+- 🌱 I’m working on expanding my mobile automation knowledge using Appium with Java. In the past, I have also worked with Maestro.
 
 - 🔭 I’m looking to learn more about Playwright and TypeScript.
 
 - 💬 Ask me about software testing, automation testing or anything QA.
 
-- ⚡ Fun fact: I started my career in software testing during my internship, unaware of its distinct role at the time. It was eye-opening as I thought, all along my uni days, that the only pathway is to become a software developer. I got to see firsthand how software actually gets made, and how crucial testing and quality assurance are in the whole process. Here I am, since 2014, still embracing the thrilling chaos of QA.
-
+- ⚡ Fun fact: I fell into software testing during my internship, not really knowing what it was—I just assumed the only real path in tech was becoming a software developer. But that experience completely changed my perspective. I got to see firsthand how software actually gets built and how crucial testing and quality assurance are in the whole process. Since then, I’ve been all in. Been doing this since 2014, and I’m still embracing the thrilling chaos of QA!
+  
 ### Let's connect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelangelo.arizala@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marizala/)
